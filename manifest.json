@@ -1,16 +1,16 @@
 {
-  "name": "Calculadora PCB Pro",
-  "short_name": "PCB Calc",
+  "name": "PCB Calc Pro",
+  "short_name": "PCBCalc",
   "start_url": "index.html",
   "display": "standalone",
-  "background_color": "#f0f2f5",
+  "background_color": "#ffffff",
   "theme_color": "#1a73e8",
+  "description": "Calculadora de presupuestos para placas de circuito impreso.",
   "icons": [
     {
-      "src": "https://cdn-icons-png.flaticon.com/512/2942/2942503.png",
+      "src": "https://cdn-icons-png.flaticon.com/512/2991/2991148.png",
       "sizes": "512x512",
-      "type": "image/png",
-      "purpose": "any maskable"
+      "type": "image/png"
     }
   ]
 }
